@@ -6,7 +6,7 @@ Welcome to my collection of C programming projects. Here you'll find a variety o
 
 ## 10. **Kaun Banega Corerepati**
 
-![Kaun Banega Corerepati](https://github.com/RBSuhail/C-Projects/assets/102736197/6ce75699-f6a0-4567-8275-d1a88cd06ded)
+<img width="1129" alt="325595585-6ce75699-f6a0-4567-8275-d1a88cd06ded" src="https://github.com/user-attachments/assets/55fd008b-22b6-4d3d-93fb-336bf98c1884">
 
 A trivia game inspired by popular quiz shows.
 
