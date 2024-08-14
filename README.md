@@ -14,16 +14,14 @@ A trivia game inspired by popular quiz shows.
 
 ## 9. **Snake Game**
 
-![Snake Game](https://github.com/RBSuhail/C-Projects/assets/102736197/5e9e9998-033b-47b7-92b8-71ded28240c8)
-
 A classic Snake game with a graphical interface.
 
 ---
 
 ## 8. **Tic-Tac-Toe**
 
-![Tic-Tac-Toe Screenshot 1](https://github.com/RBSuhail/C-Projects/assets/102736197/92e1804b-1206-415d-96f4-65125178bc2c)
-![Tic-Tac-Toe Screenshot 2](https://github.com/RBSuhail/C-Projects/assets/102736197/f881e010-4c2d-4251-a8c9-e7bcceb9ca1f)
+<img width="970" alt="tictoe" src="https://github.com/user-attachments/assets/2cb7d15c-a1dd-4668-b955-8e3dd5d87e7e">
+
 
 A traditional Tic-Tac-Toe game with a user-friendly interface.
 
@@ -31,7 +29,7 @@ A traditional Tic-Tac-Toe game with a user-friendly interface.
 
 ## 7. **SUDOKU Solver**
 
-![SUDOKU Solver](https://github.com/RBSuhail/C-Projects/assets/102736197/c70a8369-1d36-4ddf-b46e-2673a9905d67)
+<img width="954" alt="sudokusolver" src="https://github.com/user-attachments/assets/3147f7cf-2ef6-4b85-9b05-4dd30c01e567">
 
 An efficient Sudoku solver that can handle various difficulty levels.
 
@@ -39,15 +37,16 @@ An efficient Sudoku solver that can handle various difficulty levels.
 
 ## 6. **Bank Management System**
 
-![Bank Management System](https://github.com/RBSuhail/C-Projects/assets/102736197/491bfc9a-38ce-46b1-be69-a46cf75f82dc)
 
 A comprehensive system to manage bank accounts and transactions.
 
 ---
+<img width="1800" alt="bankmanagement" src="https://github.com/user-attachments/assets/c1aebc4e-f7d6-40a6-9fd6-d4a7314c7ddb">
 
 ## 5. **User Management**
 
-![User Management](https://github.com/RBSuhail/C-Projects/assets/102736197/0c6272c9-4e46-4275-9645-727bc495df91)
+
+<img width="1253" alt="usermanagement" src="https://github.com/user-attachments/assets/6f3806b9-df44-41d5-a88f-4327eb7f5cc1">
 
 A user management system for handling user accounts and permissions.
 
@@ -61,7 +60,6 @@ A visual progress bar implementation to track progress in applications.
 
 ## 3. **Digital Clock**
 
-![Digital Clock](https://github.com/RBSuhail/C-Projects/assets/102736197/a15144e7-c736-4a39-af6e-acfae9fc06ae)
 
 A simple digital clock with real-time updates.
 
@@ -69,15 +67,16 @@ A simple digital clock with real-time updates.
 
 ## 2. **Simple Calculator**
 
-![Simple Calculator](https://github.com/RBSuhail/C-Projects/assets/102736197/8e2373a2-2910-4994-bd5d-ff41a5e7a62a)
+<img width="1170" alt="calculater" src="https://github.com/user-attachments/assets/a8aaddfa-1d88-4c15-91b8-8748b2638b34">
+
 
 A basic calculator that performs standard arithmetic operations.
 
 ---
 
 ## 1. **Number Guessing Game**
+<img width="2270" alt="guessinggame" src="https://github.com/user-attachments/assets/91a444c5-a2bb-416f-954a-38f1f891cbd6">
 
-![Number Guessing Game](https://github.com/RBSuhail/C-Projects/assets/102736197/4f082219-8ecd-4823-9f0f-cc7e88013652)
 
 A fun number guessing game with varying levels of difficulty.
 
